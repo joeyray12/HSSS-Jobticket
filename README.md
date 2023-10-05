@@ -11,7 +11,7 @@ I was tasked with analyzing the presented code for any changes that could be mad
 - [License](#license)
 
 ## Installation
-N/A
+(https://joeyray12.github.io/HSSS-Jobticket/#social-media-marketing)
 
 ## Usage
 This page can now be utilized and added on to for future purposes in a much more manageable and easy to understand way now that the CSS style sheet is set up to accurately reflect the HTML code. It has also been better optimized for anyone with an impairment that would make it difficult to view the images on the page.
